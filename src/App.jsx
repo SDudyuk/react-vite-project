@@ -10,7 +10,7 @@ function App() {
       <ProductCard />
       <ProductCard />
       <ProductCard />
-      
+
       <footer>© 2024 Hillel IT School</footer>
     </main>
   )
