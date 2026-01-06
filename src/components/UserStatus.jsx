@@ -7,7 +7,6 @@ export default function UserStatus({ isLoggedIn, username, role, isOnline }) {
       padding: "20px",
       margin: "20px 0",
       backgroundColor: "#f9f9f9",
-      color: "#333",
     },
     status: {
       fontSize: "16px",
